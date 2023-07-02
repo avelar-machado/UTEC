@@ -7,8 +7,8 @@ class Navbar extends React.Component {
       <nav className="navbar">
         <div className="navbar-title">UTEC</div>
         <div className="navbar-buttons">
-          <button className="navbar-button">Login</button>
-          <button className="navbar-button">Sign Up</button>
+          <button className="navbar-button"><a href="#"> Login </a></button>
+          <button className="navbar-button" > <a href> Sign Up</a></button>
           
         </div>
       </nav>
